@@ -1,24 +1,6 @@
-# README
+# Sobre
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+. Aplicação que tem como função poder cadastrar users e dar feedback sobre habilidades destes, permitindo recrutadores saberem sobre opiniões de outros devs.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+O banco de dados utilizado foi o Sqlite3.
+Nessa aplicação lidamos com Migrations, Models, scss, Controllers.
